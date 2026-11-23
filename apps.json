@@ -1,0 +1,20 @@
+[
+  {
+    "appName": "Flappy StackChan",
+    "iconUrl": "http://47.113.125.164:12800/file/apps/5e5ecfa3-eee4-4b08-a9ce-9b0f0139d0f9.png",
+    "description": "Play the classic Flappy Bird game!",
+    "firmwareUrl": "http://47.113.125.164:12800/file/apps/4124f874-bb00-4a0c-9cf7-fb486a01b4cd.bin"
+  },
+  {
+    "appName": "IMU Gimbal",
+    "iconUrl": "http://47.113.125.164:12800/file/apps/080e1f7c-263c-40bc-8c2b-76b4e78c319f.png",
+    "description": "Make the head as stable as a chicken head, using IMU.",
+    "firmwareUrl": "http://47.113.125.164:12800/file/apps/cfb1aa4f-3160-4b25-92cc-81cfa636471a.bin"
+  },
+  {
+    "appName": "IR Remote",
+    "iconUrl": "http://47.113.125.164:12800/file/apps/29aca529-a048-414b-ba9f-ffd467e204bc.png",
+    "description": "Copy & send IR signals",
+    "firmwareUrl": "http://47.113.125.164:12800/file/apps/c546f624-7c31-414d-b71c-7f1bc1d1f5af.bin"
+  }
+]
