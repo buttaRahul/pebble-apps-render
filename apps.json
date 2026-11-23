@@ -1,5 +1,11 @@
 [
   {
+    "appName": "Star Catch",
+    "iconUrl": "http://pebble-apps.butta-rahul-aditya.workers.dev/apps/star-catch.png",
+    "description": "Drag the pebble to catch stars, dodge rocks. Swipe up from the bottom for Home.",
+    "firmwareUrl": "http://pebble-apps.butta-rahul-aditya.workers.dev/apps/star-catch.bin"
+  },
+  {
     "appName": "Flappy StackChan",
     "iconUrl": "http://47.113.125.164:12800/file/apps/5e5ecfa3-eee4-4b08-a9ce-9b0f0139d0f9.png",
     "description": "Play the classic Flappy Bird game!",
